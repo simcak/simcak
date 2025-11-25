@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! It's Peter from 42.</h2>
+<!-- <h2 align="left">Hi 👋! It's Peter from 42.</h2>
 
 <!-- MARIO GIF -->
 ![mario-gif](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
@@ -16,4 +16,4 @@
 
 <!-- SNAKE OF GIT COMMITS --> 
 <!-- <br clear="both">
-![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg) -->
+![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg) --> -->
