@@ -1,7 +1,10 @@
 <!-- <h2 align="left">Hi 👋! It's Peter from 42.</h2>
 
 <!-- MARIO GIF -->
-![mario-gif](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
+<!-- ![mario-gif](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif) -->
+
+![mario_pixelArt_wallpaper](https://github.com/user-attachments/assets/3ef544be-2a4a-462f-9100-0d673b5b1ebd)
+
 
 <!-- 42 PROFILE -->
 <!-- [![psimcak's 42 stats](https://badge.mediaplus.ma/darkblue/psimcak?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) -->
